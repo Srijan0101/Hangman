@@ -3,5 +3,6 @@ Hangman is a popular word guessing game where the player attempts to build a mis
 
 You can try playing the game here https://hangmanwordgame.com/
 
-#Features:
+
+# Features:
 

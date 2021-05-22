@@ -4,5 +4,17 @@ Hangman is a popular word guessing game where the player attempts to build a mis
 You can try playing the game here https://hangmanwordgame.com/
 
 
-# Features:
+# How to play
+
+1. User starts the game by entering his name.
+2. Total 8 chances available to guess the correct word.
+3. Available letters shown for each chance.
+4. 1 hint also available.
+
+
+# Features
+
+
+
+
 
